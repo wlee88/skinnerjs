@@ -1,9 +1,7 @@
 {
   "name": "skinnerjs",
   "version": "1.0.0",
-  "description": "As requested by Skinner himself..
-Simply include the file as a source file and away you go. Alex Skinner is all of your image tags.
-",
+  "description": "As requested by Skinner himself the possibility for Alex Skinner's latest Facebook profile to be all of your image tags.",
   "main": "skinner.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
